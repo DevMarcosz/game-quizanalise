@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "Eduarda eu te amo um montao",
+    question: "eu te amo um montao",
     choice1: "eu sei amor",
     choice2: "fodase lixo feio otario",
     choice3: "sim como soube",
